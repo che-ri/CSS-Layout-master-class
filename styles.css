@@ -1,0 +1,23 @@
+.body-container{
+    display: flex;
+    background-color:white;
+    font-size: 10px;
+}
+
+header{
+    background-color:white;
+    color:#E7473C;
+    width: 530px;
+}
+
+header h1{
+    font-size:45px; 
+}
+
+header p{
+    font-size: 15px;
+}
+
+main{
+    margin: auto;
+}
